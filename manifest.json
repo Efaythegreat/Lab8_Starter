@@ -2,8 +2,8 @@
     "name": "Lab8_Starter",
     "short_name": "Yifei Du",
     "description": "my lab8 assignment",
-    "start_url": "http://127.0.0.1:5500/index.html",
-    "display": "browser",
+    "start_url": "/index.html",
+    "display": "standalone",
     "background_color": "white",
     "theme_color": "gray",
     "icons": [
